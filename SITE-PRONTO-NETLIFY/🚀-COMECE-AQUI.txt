@@ -1,0 +1,70 @@
+═══════════════════════════════════════════════════════════════
+🎯 SITE EMD SERVIÇOS - INSTRUÇÕES RÁPIDAS
+═══════════════════════════════════════════════════════════════
+
+✅ TUDO PRONTO! Apenas 2 passos simples:
+
+═══════════════════════════════════════════════════════════════
+PASSO 1: ADICIONAR O LOGOTIPO
+═══════════════════════════════════════════════════════════════
+
+1. Salve a imagem do logotipo que você enviou
+2. Nome do arquivo: logo.png
+3. Coloque dentro desta pasta SITE-PRONTO-NETLIFY
+
+═══════════════════════════════════════════════════════════════
+PASSO 2: PUBLICAR NO NETLIFY
+═══════════════════════════════════════════════════════════════
+
+1. Acesse: https://app.netlify.com
+2. Faça login (ou crie conta grátis)
+3. Clique "Add new site" → "Deploy manually"
+4. Arraste esta pasta inteira para o Netlify
+5. PRONTO! Site online em 30 segundos! 🎉
+
+═══════════════════════════════════════════════════════════════
+📁 ARQUIVOS INCLUÍDOS NESTA PASTA:
+═══════════════════════════════════════════════════════════════
+
+✅ index.html ......... Página principal completa
+✅ styles.css ......... Estilos (azul ciano + dourado)
+✅ script.js .......... Funcionalidades (WhatsApp, SMS, Email)
+✅ netlify.toml ....... Configuração Netlify
+✅ robots.txt ......... SEO - Motores de busca
+✅ sitemap.xml ........ Mapa do site
+⚠️ logo.png ........... ADICIONE ESTE ARQUIVO!
+
+═══════════════════════════════════════════════════════════════
+✨ O QUE FOI ATUALIZADO:
+═══════════════════════════════════════════════════════════════
+
+✅ Logotipo substituído em 3 lugares:
+   • Menu/Header
+   • Hero (logo grande)
+   • Footer
+   
+✅ Mantendo todas as funcionalidades atuais:
+   • Formulários funcionais
+   • Envio para WhatsApp/SMS/Email
+   • Todas as seções e animações
+   • SEO otimizado
+   • Design responsivo
+
+═══════════════════════════════════════════════════════════════
+📞 INFORMAÇÕES DE CONTATO NO SITE:
+═══════════════════════════════════════════════════════════════
+
+WhatsApp: +351 914040103
+Instagram: @emd_servicos
+Email: emdservicos2025@gmail.com
+
+═══════════════════════════════════════════════════════════════
+🎊 PRONTO PARA DECOLAR!
+═══════════════════════════════════════════════════════════════
+
+Tempo estimado para publicar: 5 minutos ⚡
+Custo: GRÁTIS no Netlify 💰
+
+"Você sonha, nós construímos!" ✨
+
+═══════════════════════════════════════════════════════════════

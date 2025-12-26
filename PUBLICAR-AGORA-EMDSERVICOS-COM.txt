@@ -1,0 +1,368 @@
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║     🌐 PUBLICAR AGORA: https://emdservicos.com (SEM TRAVAS!)         ║
+║                                                                       ║
+║             Site 100% Pronto - Apenas 3 Passos Simples               ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+✅ STATUS DO SEU PROJETO
+
+
+┌───────────────────────────────────────────────────────────────┐
+│                                                               │
+│  ✅ Código limpo (sem Figma)                                 │
+│  ✅ Domínio preparado (emdservicos.com)                      │
+│  ✅ SEO otimizado (Google pronto)                            │
+│  ✅ Sem travas (CNAME, TXT, A livre)                         │
+│  ✅ HTTPS automático (SSL grátis)                            │
+│  ✅ Zero custos (100% grátis)                                │
+│                                                               │
+│  ⚠️  Falta apenas: Adicionar 18 imagens                      │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+🚀 3 PASSOS PARA PUBLICAR (30 MINUTOS)
+
+
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║  PASSO 1: ADICIONAR IMAGENS (10 minutos)                         ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+mkdir -p public/images
+
+# Copie 18 fotos para public/images/:
+# - emd-logo.png (logo EMD)
+# - paint-1.jpg, paint-2.jpg, paint-3.jpg (pintura)
+# - electric-1.jpg, electric-2.jpg, electric-3.jpg (eletricidade)
+# - flooring-1.jpg, flooring-2.jpg, flooring-3.jpg (pavimento)
+# - kitchen-1.jpg, kitchen-2.jpg (cozinha)
+# - renovation-1.jpg, renovation-2.jpg, renovation-3.jpg (remodelação)
+# - roof-1.jpg (telhado)
+# - drone-1.jpg, drone-2.jpg (drone)
+
+# Lista completa: IMAGENS-NECESSARIAS.md
+
+# Teste:
+npm run dev
+
+
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║  PASSO 2: PUBLICAR NO GITHUB + NETLIFY (10 minutos)              ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+# Git
+git add .
+git commit -m "🚀 Site EMD Serviços - emdservicos.com pronto"
+git push origin main
+
+# Netlify (no navegador):
+# 1. https://app.netlify.com/
+# 2. "Add new site" → "Import from Git"
+# 3. Selecione: emdservicos
+# 4. Build command: npm run build
+# 5. Publish directory: dist
+# 6. Deploy site!
+
+✅ Site online em: https://seu-site.netlify.app
+
+
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║  PASSO 3: CONFIGURAR DOMÍNIO emdservicos.com (10 minutos)        ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+┌─────────────────────────────────────────────────────────────────┐
+│  NO NETLIFY:                                                    │
+│  ────────────────────────────────────────────────────────────   │
+│                                                                 │
+│  1. Domain settings                                             │
+│  2. Add custom domain                                           │
+│  3. Digite: emdservicos.com                                     │
+│  4. Add domain                                                  │
+│  5. Set up Netlify DNS                                          │
+│  6. Copie os 4 nameservers                                      │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────┐
+│  NO SEU REGISTRADOR DE DOMÍNIO:                                 │
+│  ────────────────────────────────────────────────────────────   │
+│  (Onde você comprou emdservicos.com)                            │
+│                                                                 │
+│  1. DNS Settings ou Nameservers                                 │
+│  2. Custom Nameservers                                          │
+│  3. Cole os 4 nameservers do Netlify                            │
+│  4. Salve                                                       │
+│                                                                 │
+│  Exemplos:                                                      │
+│    dns1.p0X.nsone.net                                           │
+│    dns2.p0X.nsone.net                                           │
+│    dns3.p0X.nsone.net                                           │
+│    dns4.p0X.nsone.net                                           │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────┐
+│  AGUARDAR:                                                      │
+│  ────────────────────────────────────────────────────────────   │
+│                                                                 │
+│  ⏳ Propagação DNS: 2-24 horas                                  │
+│  ✅ HTTPS ativa automaticamente                                 │
+│  ✅ Site online em: https://emdservicos.com                     │
+│                                                                 │
+│  Verificar propagação: https://dnschecker.org/                  │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+⏱️  CRONOGRAMA
+
+
+┌──────────────────────────────────┬──────────┬──────────────┐
+│ Atividade                        │ Tempo    │ Status       │
+├──────────────────────────────────┼──────────┼──────────────┤
+│ Adicionar imagens                │ 10 min   │ ⏳ Pendente  │
+│ Git push                         │ 2 min    │ ⏳ Pendente  │
+│ Deploy Netlify                   │ 5 min    │ ⏳ Pendente  │
+│ Configurar domínio               │ 10 min   │ ⏳ Pendente  │
+│ Aguardar propagação DNS          │ 2-24h    │ ⏳ Aguardar  │
+├──────────────────────────────────┼──────────┼──────────────┤
+│ SITE ONLINE emdservicos.com      │ 🎉       │ 🎯 Meta      │
+└──────────────────────────────────┴──────────┴──────────────┘
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+📋 CHECKLIST COMPLETO
+
+
+PRÉ-PUBLICAÇÃO:
+  □ Imagens em /public/images/ (18 arquivos)
+  □ npm install executado
+  □ npm run dev funciona sem erros
+  □ Todas seções aparecem no navegador
+
+GITHUB:
+  □ git add .
+  □ git commit
+  □ git push origin main
+  □ Código aparece no GitHub
+
+NETLIFY:
+  □ Conta criada
+  □ Repositório conectado
+  □ Build: npm run build
+  □ Publish: dist
+  □ Deploy com sucesso
+  □ Site funciona em *.netlify.app
+
+DOMÍNIO:
+  □ Domínio adicionado no Netlify
+  □ Netlify DNS escolhido
+  □ 4 nameservers copiados
+  □ Nameservers configurados no registrador
+  □ Aguardando propagação DNS
+  □ DNS propagado (dnschecker.org)
+  □ HTTPS ativo (cadeado verde)
+  □ Site funciona em emdservicos.com
+
+SEO:
+  □ Google Search Console
+  □ Propriedade adicionada
+  □ Sitemap enviado
+  □ Indexação solicitada
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+📁 ARQUIVOS CRIADOS PARA VOCÊ
+
+
+┌───────────────────────────────────────────────────────────────┐
+│                                                               │
+│  📄 CONFIGURAR-DOMINIO-EMDSERVICOS-COM.md                    │
+│     → Guia COMPLETO de configuração DNS                      │
+│     → Passo a passo detalhado                                │
+│     → Exemplos para cada registrador                         │
+│                                                               │
+│  📄 DOMINIO-PRONTO-SEM-TRAVAS.txt                            │
+│     → Confirmação sem travas                                 │
+│     → Resumo visual                                          │
+│     → Próximos passos                                        │
+│                                                               │
+│  📄 RESUMO-DOMINIO-CONFIGURADO.md                            │
+│     → Status dos arquivos                                    │
+│     → Timeline de publicação                                 │
+│     → Verificações necessárias                               │
+│                                                               │
+│  📄 IMAGENS-NECESSARIAS.md                                   │
+│     → Lista completa de 18 imagens                           │
+│     → URLs temporárias Unsplash                              │
+│     → Especificações técnicas                                │
+│                                                               │
+│  📄 CODIGO-LIMPO-PRONTO-GITHUB.txt                           │
+│     → Guia geral de publicação                               │
+│     → Comandos Git completos                                 │
+│     → Configuração Netlify                                   │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+🎁 O QUE VOCÊ TEM GRÁTIS
+
+
+✅ Hosting grátis (Netlify)
+✅ SSL/HTTPS grátis (certificado automático)
+✅ CDN global grátis (site rápido mundial)
+✅ Deploy automático grátis (GitHub → Site)
+✅ Backup automático grátis (histórico de versões)
+✅ Analytics básico grátis (Netlify Analytics)
+
+CUSTO TOTAL: €0/mês 💰
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+🔍 VERIFICAÇÕES IMPORTANTES
+
+
+Após deploy Netlify:
+  ✓ Acesse: https://seu-site.netlify.app
+  ✓ Verifique todas seções carregam
+  ✓ Verifique imagens aparecem
+  ✓ Teste formulários
+  ✓ Teste menu mobile
+
+Após configurar domínio:
+  ✓ Acesse: https://emdservicos.com
+  ✓ Veja cadeado verde (HTTPS)
+  ✓ Teste www.emdservicos.com (deve redirecionar)
+  ✓ Verifique em mobile
+  ✓ Teste velocidade (PageSpeed Insights)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+⚠️  CONFIRMAÇÃO FINAL: SEM TRAVAS!
+
+
+✅ URLs flexíveis (todas em emdservicos.com)
+✅ Sem CNAMEs fixos no código
+✅ Sem TXT records obrigatórios
+✅ Sem IPs hardcoded
+✅ Sem configurações especiais
+✅ 100% configurável no Netlify
+
+PODE PUBLICAR AGORA! 🚀
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+🎯 COMECE AGORA!
+
+
+Passo 1 (AGORA):
+  mkdir -p public/images
+  # Adicione suas 18 fotos
+
+Passo 2 (5 min depois):
+  npm run dev
+  # Verifique tudo funciona
+
+Passo 3 (depois):
+  git add .
+  git commit -m "Pronto para emdservicos.com"
+  git push origin main
+
+Passo 4 (depois):
+  # Configure Netlify
+  # Veja: CONFIGURAR-DOMINIO-EMDSERVICOS-COM.md
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+📞 INFORMAÇÕES DO SEU SITE
+
+
+Domínio:      https://emdservicos.com
+WhatsApp:     https://wa.me/351914040103
+Instagram:    https://instagram.com/emd_servicos
+Email:        emdservicos2025@gmail.com
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+💡 DICA PRO
+
+
+Use Netlify DNS (Passo 3 - Opção Netlify DNS)
+
+Por quê?
+  ✓ Automático (Netlify configura tudo)
+  ✓ Mais rápido (propagação em minutos)
+  ✓ SSL automático (HTTPS sem configurar)
+  ✓ WWW automático (redirecionamento pronto)
+  ✓ Sem complicação (apenas copiar 4 nameservers)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+🎉 PARABÉNS!
+
+
+Você tem em mãos:
+
+  ✅ Site profissional
+  ✅ Código limpo
+  ✅ Domínio próprio
+  ✅ SEO otimizado
+  ✅ Zero custos
+  ✅ Pronto para publicar
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+💼 "Você sonha, nós construímos!" - EMD Serviços
+
+
+🌐 PUBLIQUE AGORA: https://emdservicos.com 🚀
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+Última atualização: 26 de Dezembro de 2024
+Status: ✅ 100% PRONTO PARA PUBLICAÇÃO
+Domínio: emdservicos.com
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

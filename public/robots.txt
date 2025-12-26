@@ -1,0 +1,8 @@
+# robots.txt para EMD Serviços
+# https://emdservicos.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://emdservicos.com/sitemap.xml
