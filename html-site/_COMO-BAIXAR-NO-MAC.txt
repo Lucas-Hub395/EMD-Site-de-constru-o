@@ -1,0 +1,121 @@
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║       📥 COMO BAIXAR OS ARQUIVOS NO SEU MAC 📥               ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+
+═══════════════════════════════════════════════════════════════
+
+        OS ARQUIVOS JÁ ESTÃO PRONTOS AQUI!
+        
+═══════════════════════════════════════════════════════════════
+
+
+🟢 MÉTODO 1: DOWNLOAD DIRETO (MAIS FÁCIL)
+
+No Figma Make:
+
+1. Procure o botão "DOWNLOAD" ou "EXPORT" 
+   (geralmente no canto superior direito)
+
+2. Selecione a pasta "html-site"
+
+3. Baixe tudo
+
+4. PRONTO! Arquivos no seu Mac
+
+
+═══════════════════════════════════════════════════════════════
+
+
+🟡 MÉTODO 2: VIA GITHUB (RECOMENDADO)
+
+1. Vá para: github.com
+2. Faça login
+3. Crie novo repositório
+4. No Figma Make, clique em "Push to GitHub"
+   ou faça upload manual dos arquivos
+5. No GitHub, clique em "Code" → "Download ZIP"
+6. PRONTO! Baixe o ZIP no seu Mac
+
+
+═══════════════════════════════════════════════════════════════
+
+
+🔵 MÉTODO 3: TERMINAL DO MAC (AVANÇADO)
+
+Se você tem Git instalado:
+
+cd ~/Desktop
+mkdir emd-site
+cd emd-site
+
+# Agora você precisa do link do repositório
+# Depois rode:
+# git clone [URL-DO-REPOSITORIO]
+
+
+═══════════════════════════════════════════════════════════════
+
+
+📝 OS 3 ARQUIVOS PRINCIPAIS QUE VOCÊ PRECISA:
+
+✅ index.html      (página principal)
+✅ styles.css      (visual)
+✅ script.js       (funcionalidades)
+
++
+
+⚙️ netlify.toml    (opcional, para publicar)
+⚙️ sitemap.xml     (opcional, para SEO)
+⚙️ robots.txt      (opcional, para SEO)
+
+
+═══════════════════════════════════════════════════════════════
+
+
+🆘 NÃO CONSEGUE BAIXAR?
+
+SOLUÇÃO ALTERNATIVA:
+
+Vou disponibilizar o código em arquivos de texto
+que você pode copiar e colar manualmente.
+
+Procure pelos arquivos:
+  → codigo-index.txt
+  → codigo-styles.txt  
+  → codigo-script.txt
+
+Em cada um:
+1. Abra o arquivo .txt
+2. Selecione tudo (Cmd + A)
+3. Copie (Cmd + C)
+4. Abra TextEdit no Mac
+5. Cole (Cmd + V)
+6. Salve com o nome correto (.html, .css ou .js)
+
+
+═══════════════════════════════════════════════════════════════
+
+
+❓ QUAL MÉTODO USAR?
+
+SE você vê um botão "Download/Export":
+  → Use MÉTODO 1 (mais rápido)
+
+SE vai publicar no GitHub depois:
+  → Use MÉTODO 2 (mais organizado)
+
+SE não consegue os métodos acima:
+  → Use MÉTODO 3 (copiar e colar manualmente)
+
+
+═══════════════════════════════════════════════════════════════
+
+
+         📞 Precisa de ajuda?
+         WhatsApp: +351 914040103
+
+
+═══════════════════════════════════════════════════════════════

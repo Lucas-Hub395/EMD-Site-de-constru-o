@@ -1,0 +1,284 @@
+================================================================================
+  LISTA COMPLETA DE ARQUIVOS - EMD SERVIÇOS
+  Projeto pronto para deploy em emdservicos.pt
+================================================================================
+
+📂 ARQUIVOS DE CONFIGURAÇÃO (Raiz do Projeto)
+================================================================================
+✅ .gitignore                  - Arquivos ignorados pelo Git
+✅ package.json                - Dependências e scripts do projeto
+✅ vite.config.ts             - Configuração do Vite
+✅ vercel.json                - Configuração Vercel (deploy)
+✅ netlify.toml               - Configuração Netlify (alternativa)
+✅ tsconfig.json              - Configuração TypeScript
+✅ tsconfig.node.json         - Configuração TypeScript (Node)
+✅ index.html                 - HTML principal com SEO completo
+
+📂 ARQUIVOS REACT PRINCIPAIS
+================================================================================
+✅ App.tsx                    - Componente principal da aplicação
+✅ src/main.tsx              - Arquivo de entrada do React
+
+📂 PASTA PUBLIC/ - SEO e Arquivos Estáticos
+================================================================================
+✅ public/robots.txt         - Configuração para motores de busca
+✅ public/sitemap.xml        - Mapa do site para SEO
+
+📂 PASTA COMPONENTS/ - Componentes React
+================================================================================
+✅ components/Header.tsx              - Cabeçalho e navegação
+✅ components/Hero.tsx                - Banner/Hero principal
+✅ components/Services.tsx            - Galeria de serviços
+✅ components/AboutSection.tsx        - Seção Quem Somos
+✅ components/BookingSection.tsx      - Sistema de marcações
+✅ components/ContactSection.tsx      - Formulário de contacto
+✅ components/Footer.tsx              - Rodapé
+✅ components/WhatsAppButton.tsx      - Botão WhatsApp flutuante
+✅ components/InstagramButton.tsx     - Botão Instagram
+✅ components/ImageCarousel.tsx       - Carrossel de imagens
+
+📂 PASTA COMPONENTS/UI/ - Componentes de Interface
+================================================================================
+✅ components/ui/accordion.tsx
+✅ components/ui/alert-dialog.tsx
+✅ components/ui/alert.tsx
+✅ components/ui/aspect-ratio.tsx
+✅ components/ui/avatar.tsx
+✅ components/ui/badge.tsx
+✅ components/ui/breadcrumb.tsx
+✅ components/ui/button.tsx
+✅ components/ui/calendar.tsx
+✅ components/ui/card.tsx
+✅ components/ui/carousel.tsx
+✅ components/ui/chart.tsx
+✅ components/ui/checkbox.tsx
+✅ components/ui/collapsible.tsx
+✅ components/ui/command.tsx
+✅ components/ui/context-menu.tsx
+✅ components/ui/dialog.tsx
+✅ components/ui/drawer.tsx
+✅ components/ui/dropdown-menu.tsx
+✅ components/ui/form.tsx
+✅ components/ui/hover-card.tsx
+✅ components/ui/input-otp.tsx
+✅ components/ui/input.tsx
+✅ components/ui/label.tsx
+✅ components/ui/menubar.tsx
+✅ components/ui/navigation-menu.tsx
+✅ components/ui/pagination.tsx
+✅ components/ui/popover.tsx
+✅ components/ui/progress.tsx
+✅ components/ui/radio-group.tsx
+✅ components/ui/resizable.tsx
+✅ components/ui/scroll-area.tsx
+✅ components/ui/select.tsx
+✅ components/ui/separator.tsx
+✅ components/ui/sheet.tsx
+✅ components/ui/sidebar.tsx
+✅ components/ui/skeleton.tsx
+✅ components/ui/slider.tsx
+✅ components/ui/sonner.tsx
+✅ components/ui/switch.tsx
+✅ components/ui/table.tsx
+✅ components/ui/tabs.tsx
+✅ components/ui/textarea.tsx
+✅ components/ui/toggle-group.tsx
+✅ components/ui/toggle.tsx
+✅ components/ui/tooltip.tsx
+✅ components/ui/use-mobile.ts
+✅ components/ui/utils.ts
+
+📂 PASTA COMPONENTS/FIGMA/ - Componentes Figma
+================================================================================
+✅ components/figma/ImageWithFallback.tsx
+
+📂 PASTA STYLES/ - Estilos
+================================================================================
+✅ styles/globals.css        - Estilos globais e Tailwind CSS
+
+📂 DOCUMENTAÇÃO - GUIAS E TUTORIAIS
+================================================================================
+🆕 INICIO-AQUI.md                  - ⭐ COMECE POR AQUI!
+🆕 ARQUIVOS-CRIADOS.md             - Lista detalhada de arquivos criados
+🆕 GUIA-UPLOAD-GITHUB.md           - Tutorial completo de upload e deploy
+🆕 CONFIGURACAO-DNS.md             - Guia de configuração DNS
+🆕 CHECKLIST-FINAL.md              - Checklist de verificação completo
+🆕 COMO-SALVAR-ARQUIVOS.md         - Como exportar arquivos do Figma
+🆕 README-GITHUB.md                - 🔴 RENOMEAR para README.md
+
+   Outros arquivos de documentação (podem ser ignorados):
+   - LEIA-ME-PRIMEIRO.md
+   - DEPLOYMENT.md
+   - GITHUB_SETUP.md
+   - GIT_COMANDOS.md
+   - COMO_PUBLICAR.md
+   - README.md (antigo - substituir por README-GITHUB.md)
+
+📂 OUTROS ARQUIVOS (Opcionais/Sistema)
+================================================================================
+   - Attributions.md
+   - TestPage.tsx
+   - LICENSE/
+   - extensions.json
+   - settings.json
+   - guidelines/
+
+================================================================================
+  INFORMAÇÕES DO PROJETO
+================================================================================
+
+📞 CONTACTOS:
+   Telefone/WhatsApp: +351914040103
+   Email: emdservicos2025@gmail.com
+   Instagram: @emd_servicos
+   Website: https://emdservicos.pt
+
+🎨 IDENTIDADE VISUAL:
+   Cor Principal: Azul Ciano (#00CED1)
+   Cor Secundária: Dourado (#FFD700)
+
+🛠️ SERVIÇOS:
+   1. Remodelação em Geral
+   2. Eletricidade
+   3. Pintura
+   4. Pavimento Flutuante
+   5. Montagem de Móveis
+   6. Serviços Gerais
+
+⚙️ TECNOLOGIAS:
+   - React 18.3
+   - TypeScript 5.2
+   - Vite 5.3
+   - Tailwind CSS 4.0
+   - React Hook Form 7.55
+   - Lucide React (ícones)
+   - Sonner (notificações)
+
+================================================================================
+  AÇÃO NECESSÁRIA ANTES DO DEPLOY
+================================================================================
+
+🔴 OBRIGATÓRIO: Renomear arquivo README
+
+   De: README-GITHUB.md
+   Para: README.md
+
+   Como fazer:
+   - Apague o README.md antigo (se existir)
+   - Renomeie README-GITHUB.md → README.md
+
+================================================================================
+  ESTRUTURA FINAL DO PROJETO
+================================================================================
+
+emdservicos/
+│
+├── 📄 Configuração
+│   ├── .gitignore
+│   ├── package.json
+│   ├── vite.config.ts
+│   ├── vercel.json
+│   ├── netlify.toml
+│   ├── tsconfig.json
+│   └── tsconfig.node.json
+│
+├── 📄 HTML e React
+│   ├── index.html
+│   └── App.tsx
+│
+├── 📁 src/
+│   └── main.tsx
+│
+├── 📁 public/
+│   ├── robots.txt
+│   └── sitemap.xml
+│
+├── 📁 components/
+│   ├── Header.tsx
+│   ├── Hero.tsx
+│   ├── Services.tsx
+│   ├── AboutSection.tsx
+│   ├── BookingSection.tsx
+│   ├── ContactSection.tsx
+│   ├── Footer.tsx
+│   ├── WhatsAppButton.tsx
+│   ├── InstagramButton.tsx
+│   ├── ImageCarousel.tsx
+│   ├── ui/ (47 arquivos)
+│   └── figma/ (1 arquivo)
+│
+├── 📁 styles/
+│   └── globals.css
+│
+└── 📄 Documentação (7 arquivos principais)
+    ├── README.md (renomear de README-GITHUB.md)
+    ├── INICIO-AQUI.md ⭐
+    ├── ARQUIVOS-CRIADOS.md
+    ├── GUIA-UPLOAD-GITHUB.md
+    ├── CONFIGURACAO-DNS.md
+    ├── CHECKLIST-FINAL.md
+    └── COMO-SALVAR-ARQUIVOS.md
+
+================================================================================
+  PRÓXIMOS PASSOS
+================================================================================
+
+1. ✅ Renomear README-GITHUB.md → README.md
+2. ✅ Abrir e ler INICIO-AQUI.md
+3. ✅ Seguir GUIA-UPLOAD-GITHUB.md para fazer deploy
+4. ✅ Usar CONFIGURACAO-DNS.md para configurar domínio
+5. ✅ Verificar tudo com CHECKLIST-FINAL.md
+
+================================================================================
+  COMANDOS RÁPIDOS
+================================================================================
+
+# Instalar dependências
+npm install
+
+# Desenvolvimento local
+npm run dev
+
+# Build para produção
+npm run build
+
+# Preview do build
+npm run preview
+
+# Git - Upload inicial
+git init
+git add .
+git commit -m "Initial commit: EMD Serviços website"
+git remote add origin https://github.com/[seu-usuario]/emdservicos.git
+git branch -M main
+git push -u origin main
+
+================================================================================
+  TOTAL DE ARQUIVOS
+================================================================================
+
+Arquivos de Configuração: 8
+Arquivos React/TypeScript: 62+
+Arquivos de Documentação: 7 novos + 6 antigos
+Arquivos SEO: 2 (robots.txt, sitemap.xml)
+
+TOTAL: ~85 arquivos
+
+================================================================================
+  STATUS
+================================================================================
+
+✅ Projeto configurado
+✅ SEO otimizado
+✅ Domínio atualizado (emdservicos.pt)
+✅ Contactos corretos
+✅ Documentação completa
+✅ Pronto para deploy!
+
+================================================================================
+
+EMD Serviços - Você Sonha, Nós Construímos! 🏗️✨
+
+📞 +351 914040103 | 🌐 emdservicos.pt | 📸 @emd_servicos
+
+================================================================================

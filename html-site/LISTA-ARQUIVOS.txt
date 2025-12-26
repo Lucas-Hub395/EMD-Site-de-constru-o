@@ -1,0 +1,225 @@
+═══════════════════════════════════════════════════════════════
+    📦 LISTA COMPLETA DE ARQUIVOS - EMD SERVIÇOS
+═══════════════════════════════════════════════════════════════
+
+TOTAL: 12 arquivos
+
+═══════════════════════════════════════════════════════════════
+🌐 ARQUIVOS DO SITE (Principais)
+═══════════════════════════════════════════════════════════════
+
+1. index.html
+   📄 Página principal do site
+   ⚙️ Contém: Todo o HTML (header, hero, services, about, booking, contact, footer)
+   💡 É o arquivo que você abre no navegador para ver o site
+
+2. styles.css
+   🎨 Arquivo de estilos
+   ⚙️ Contém: Todos os estilos, cores, animações, responsividade
+   💡 Define como o site aparece visualmente
+
+3. script.js
+   ⚡ Arquivo JavaScript
+   ⚙️ Contém: Funcionalidades (menu mobile, carrossel, formulários)
+   💡 Faz o site funcionar (interatividade)
+
+═══════════════════════════════════════════════════════════════
+🔧 ARQUIVOS DE CONFIGURAÇÃO
+═══════════════════════════════════════════════════════════════
+
+4. netlify.toml
+   🔧 Configuração do Netlify
+   ⚙️ Contém: Regras de deploy, headers de segurança
+   💡 Necessário para publicar no Netlify
+
+5. robots.txt
+   🤖 Arquivo para buscadores (Google, Bing)
+   ⚙️ Contém: Permissões para indexação
+   💡 Ajuda o site a aparecer no Google
+
+6. sitemap.xml
+   🗺️ Mapa do site
+   ⚙️ Contém: Lista de todas as páginas/seções
+   💡 Ajuda Google a entender estrutura do site
+
+7. .gitignore
+   📝 Arquivo do Git
+   ⚙️ Contém: Lista de arquivos a ignorar no Git
+   💡 Usado se publicar via GitHub
+
+═══════════════════════════════════════════════════════════════
+📚 ARQUIVOS DE DOCUMENTAÇÃO
+═══════════════════════════════════════════════════════════════
+
+8. LEIA-ME-PRIMEIRO.txt
+   🏁 COMECE AQUI!
+   ⚙️ Visão geral de tudo
+   💡 Leia este primeiro para entender o projeto
+
+9. INICIO-RAPIDO.txt
+   ⚡ Guia rápido (5 minutos)
+   ⚙️ 3 passos simples para publicar
+   💡 Para quem quer publicar AGORA
+
+10. PASSO-A-PASSO-GITHUB.md
+    💻 Guia GitHub detalhado
+    ⚙️ Como adicionar arquivos ao GitHub
+    💡 Para publicação com controle de versão
+
+11. CHECKLIST-PUBLICACAO.md
+    ✅ Lista de verificação completa
+    ⚙️ Passo a passo com checkboxes
+    💡 Para não esquecer nada
+
+12. COMO-PUBLICAR-NO-NETLIFY.md
+    📘 Guia completo e detalhado
+    ⚙️ Tudo sobre publicação, DNS, SEO
+    💡 Referência completa
+
+13. README.md
+    📖 Documentação técnica
+    ⚙️ Informações sobre o projeto
+    💡 Para desenvolvedores e GitHub
+
+14. LISTA-ARQUIVOS.txt
+    📋 Este arquivo
+    ⚙️ Lista e descrição de todos os arquivos
+    💡 Para referência rápida
+
+═══════════════════════════════════════════════════════════════
+📦 COMO ORGANIZAR PARA PUBLICAR
+═══════════════════════════════════════════════════════════════
+
+TODOS os arquivos devem estar na MESMA pasta:
+
+emd-servicos-site/
+├── index.html                      ← OBRIGATÓRIO
+├── styles.css                      ← OBRIGATÓRIO
+├── script.js                       ← OBRIGATÓRIO
+├── netlify.toml                    ← OBRIGATÓRIO para Netlify
+├── robots.txt                      ← RECOMENDADO (SEO)
+├── sitemap.xml                     ← RECOMENDADO (SEO)
+├── .gitignore                      ← Opcional (se usar Git)
+├── LEIA-ME-PRIMEIRO.txt           ← Documentação
+├── INICIO-RAPIDO.txt              ← Documentação
+├── PASSO-A-PASSO-GITHUB.md        ← Documentação
+├── CHECKLIST-PUBLICACAO.md        ← Documentação
+├── COMO-PUBLICAR-NO-NETLIFY.md    ← Documentação
+├── README.md                       ← Documentação
+└── LISTA-ARQUIVOS.txt             ← Este arquivo
+
+═══════════════════════════════════════════════════════════════
+📤 QUAIS ARQUIVOS FAZER UPLOAD
+═══════════════════════════════════════════════════════════════
+
+OPÇÃO 1 - Netlify Drop (Mínimo necessário):
+  ✅ index.html
+  ✅ styles.css
+  ✅ script.js
+  ✅ netlify.toml
+  ✅ robots.txt
+  ✅ sitemap.xml
+
+OPÇÃO 2 - GitHub + Netlify (Recomendado - TODOS):
+  ✅ index.html
+  ✅ styles.css
+  ✅ script.js
+  ✅ netlify.toml
+  ✅ robots.txt
+  ✅ sitemap.xml
+  ✅ .gitignore
+  ✅ README.md
+  ✅ COMO-PUBLICAR-NO-NETLIFY.md
+  ✅ INICIO-RAPIDO.txt
+  ✅ PASSO-A-PASSO-GITHUB.md
+  ✅ CHECKLIST-PUBLICACAO.md
+  ✅ LEIA-ME-PRIMEIRO.txt
+  ✅ LISTA-ARQUIVOS.txt
+
+═══════════════════════════════════════════════════════════════
+💾 TAMANHO DOS ARQUIVOS (Aproximado)
+═══════════════════════════════════════════════════════════════
+
+index.html                      ~25 KB
+styles.css                      ~20 KB
+script.js                       ~8 KB
+netlify.toml                    ~1 KB
+robots.txt                      <1 KB
+sitemap.xml                     ~1 KB
+.gitignore                      <1 KB
+README.md                       ~6 KB
+COMO-PUBLICAR-NO-NETLIFY.md    ~12 KB
+INICIO-RAPIDO.txt              ~3 KB
+PASSO-A-PASSO-GITHUB.md        ~8 KB
+CHECKLIST-PUBLICACAO.md        ~10 KB
+LEIA-ME-PRIMEIRO.txt           ~4 KB
+LISTA-ARQUIVOS.txt             ~3 KB
+
+TOTAL: ~102 KB (muito leve!)
+
+═══════════════════════════════════════════════════════════════
+🔍 QUAL ARQUIVO USAR PARA QUÊ?
+═══════════════════════════════════════════════════════════════
+
+❓ "Quero ver o site funcionando"
+   → Abra: index.html (no navegador)
+
+❓ "Como publico rapidamente?"
+   → Leia: INICIO-RAPIDO.txt
+
+❓ "Como uso o GitHub?"
+   → Leia: PASSO-A-PASSO-GITHUB.md
+
+❓ "Quero uma lista de verificação"
+   → Use: CHECKLIST-PUBLICACAO.md
+
+❓ "Preciso de informações completas"
+   → Leia: COMO-PUBLICAR-NO-NETLIFY.md
+
+❓ "Quero saber detalhes técnicos"
+   → Leia: README.md
+
+❓ "Por onde começo?"
+   → Leia: LEIA-ME-PRIMEIRO.txt
+
+❓ "Quais arquivos tenho?"
+   → Você está aqui! 😊
+
+═══════════════════════════════════════════════════════════════
+🎯 ORDEM RECOMENDADA DE USO
+═══════════════════════════════════════════════════════════════
+
+1º) LEIA-ME-PRIMEIRO.txt          ← Visão geral
+2º) INICIO-RAPIDO.txt             ← Como publicar rápido
+3º) CHECKLIST-PUBLICACAO.md       ← Seguir passo a passo
+4º) COMO-PUBLICAR-NO-NETLIFY.md   ← Referência detalhada
+5º) PASSO-A-PASSO-GITHUB.md       ← Se usar GitHub
+
+═══════════════════════════════════════════════════════════════
+✅ VERIFICAÇÃO ANTES DE PUBLICAR
+═══════════════════════════════════════════════════════════════
+
+Certifique-se de ter TODOS estes arquivos:
+□ index.html
+□ styles.css
+□ script.js
+□ netlify.toml
+□ robots.txt
+□ sitemap.xml
+
+Opcional mas recomendado:
+□ .gitignore (se usar GitHub)
+□ README.md (para GitHub)
+□ Arquivos de documentação (.txt e .md)
+
+═══════════════════════════════════════════════════════════════
+🚀 PRONTO PARA PUBLICAR?
+═══════════════════════════════════════════════════════════════
+
+Próximo passo:
+→ Leia: INICIO-RAPIDO.txt
+→ Ou: PASSO-A-PASSO-GITHUB.md
+
+═══════════════════════════════════════════════════════════════
+
+Boa sorte com a EMD Serviços! 🏗️🎨⚡

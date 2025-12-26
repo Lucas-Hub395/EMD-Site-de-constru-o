@@ -1,0 +1,92 @@
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║         🎯 FORMA MAIS SIMPLES DE BAIXAR TUDO 🎯              ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+
+Estes arquivos estão no Figma Make.
+
+Para baixar NO SEU MAC:
+
+
+═══════════════════════════════════════════════════════════════
+OPÇÃO 1: EXPORT DO FIGMA MAKE
+═══════════════════════════════════════════════════════════════
+
+1. Procure o botão "Export" ou "Download" nesta interface
+
+2. Ou clique com botão direito na pasta "html-site"
+
+3. Escolha "Download" ou "Save"
+
+4. Escolha onde salvar no seu Mac
+
+5. PRONTO!
+
+
+═══════════════════════════════════════════════════════════════
+OPÇÃO 2: VER ARQUIVOS AQUI E COPIAR
+═══════════════════════════════════════════════════════════════
+
+No painel esquerdo do Figma Make, você vê:
+
+📁 html-site/
+   📄 index.html      ← Clique para abrir
+   📄 styles.css      ← Clique para abrir  
+   📄 script.js       ← Clique para abrir
+
+Para cada arquivo:
+1. Clique no arquivo
+2. Selecione TODO o código (Cmd+A)
+3. Copie (Cmd+C)
+4. Abra TextEdit no Mac
+5. Cole (Cmd+V)
+6. Salve com o nome correto
+
+
+═══════════════════════════════════════════════════════════════
+OPÇÃO 3: PUBLICAR DIRETO
+═══════════════════════════════════════════════════════════════
+
+NÃO PRECISA BAIXAR!
+
+Você pode publicar diretamente do Figma Make:
+
+1. Procure botão "Deploy" ou "Publish"
+2. Escolha "Netlify" ou "GitHub"
+3. Siga as instruções
+4. Site no ar!
+
+
+═══════════════════════════════════════════════════════════════
+         📱 VOCÊ ESTÁ USANDO FIGMA MAKE             
+═══════════════════════════════════════════════════════════════
+
+Os arquivos JÁ ESTÃO aqui na interface!
+
+Olhe no painel à esquerda → pasta "html-site"
+
+Lá você encontra TODOS os arquivos prontos.
+
+
+═══════════════════════════════════════════════════════════════
+         🎯 PRECISA DOS ARQUIVOS NO MAC?
+═══════════════════════════════════════════════════════════════
+
+Método mais simples:
+
+1. Clique em cada arquivo (index.html, styles.css, script.js)
+2. O código aparece na tela
+3. Cmd+A (selecionar tudo)
+4. Cmd+C (copiar)
+5. Abra TextEdit
+6. Cmd+V (colar)
+7. Arquivo → Salvar Como → escolha o nome correto
+
+
+═══════════════════════════════════════════════════════════════
+
+Qualquer dúvida, me avise que te ajudo melhor!
+
+═══════════════════════════════════════════════════════════════

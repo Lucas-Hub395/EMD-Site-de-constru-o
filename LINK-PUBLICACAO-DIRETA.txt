@@ -1,0 +1,164 @@
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║         🚀 PUBLICAR SEU SITE AGORA - 2 MINUTOS 🚀            ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+
+═══════════════════════════════════════════════════════════════
+MÉTODO 1: NETLIFY DROP (MAIS FÁCIL)
+═══════════════════════════════════════════════════════════════
+
+📍 LINK DIRETO:
+
+    👉 https://app.netlify.com/drop
+
+PASSOS:
+
+1. Abra o link acima no navegador
+
+2. Crie conta (pode usar Google)
+
+3. Arraste a pasta do projeto para a tela
+
+4. PRONTO! Site no ar em 1 minuto
+
+5. Netlify te dá um link tipo:
+   https://emd-servicos-abc123.netlify.app
+
+
+═══════════════════════════════════════════════════════════════
+MÉTODO 2: VIA GITHUB + NETLIFY (RECOMENDADO)
+═══════════════════════════════════════════════════════════════
+
+SE você tem conta GitHub:
+
+1. No Figma Make: "Push to GitHub"
+   
+2. Vá em: https://app.netlify.com
+
+3. Clique em "Import from Git"
+
+4. Conecte GitHub → Escolha o repositório
+
+5. Clique em "Deploy site"
+
+6. PRONTO! Site no ar!
+
+
+═══════════════════════════════════════════════════════════════
+📋 DEPOIS DE PUBLICAR
+═══════════════════════════════════════════════════════════════
+
+Você vai receber um LINK do tipo:
+
+    https://seu-site-123.netlify.app
+
+GUARDE ESTE LINK!
+
+
+═══════════════════════════════════════════════════════════════
+🔍 ADICIONAR NO GOOGLE
+═══════════════════════════════════════════════════════════════
+
+📍 LINK DO GOOGLE SEARCH CONSOLE:
+
+    👉 https://search.google.com/search-console
+
+PASSOS:
+
+1. Faça login com conta Google
+
+2. Clique em "Adicionar propriedade"
+
+3. Cole o link do seu site Netlify
+
+4. Siga verificação do Google
+
+5. Vá em "Sitemaps" → Adicione:
+   https://seu-site-123.netlify.app/sitemap.xml
+
+6. Vá em "Inspeção de URL" → 
+   Cole seu site → "Solicitar indexação"
+
+✅ Em 3-7 dias aparece no Google!
+
+
+═══════════════════════════════════════════════════════════════
+⚡ RESUMO DE 30 SEGUNDOS
+═══════════════════════════════════════════════════════════════
+
+1. app.netlify.com/drop
+2. Arraste a pasta
+3. Copie o link
+4. search.google.com/search-console
+5. Adicione o link
+6. Envie sitemap.xml
+7. Solicite indexação
+8. PRONTO!
+
+
+═══════════════════════════════════════════════════════════════
+📱 LINKS IMPORTANTES
+═══════════════════════════════════════════════════════════════
+
+Netlify Drop (publicar):
+https://app.netlify.com/drop
+
+Netlify Dashboard:
+https://app.netlify.com
+
+Google Search Console:
+https://search.google.com/search-console
+
+Google Meu Negócio:
+https://www.google.com/business
+
+
+═══════════════════════════════════════════════════════════════
+✅ CHECKLIST
+═══════════════════════════════════════════════════════════════
+
+[ ] Criar conta Netlify
+[ ] Fazer deploy do site
+[ ] Copiar link do site
+[ ] Adicionar no Google Search Console
+[ ] Verificar propriedade
+[ ] Enviar sitemap.xml
+[ ] Solicitar indexação
+[ ] Criar Google Meu Negócio
+[ ] Adicionar link no Instagram @emd_servicos
+[ ] Adicionar link no WhatsApp
+
+
+═══════════════════════════════════════════════════════════════
+💰 CUSTOS
+═══════════════════════════════════════════════════════════════
+
+Netlify (hospedagem):        GRÁTIS ✅
+SSL/HTTPS:                    GRÁTIS ✅
+Google Search Console:        GRÁTIS ✅
+Google Meu Negócio:           GRÁTIS ✅
+
+TOTAL:                        €0 (ZERO!)
+
+
+═══════════════════════════════════════════════════════════════
+🎯 COMECE AGORA!
+═══════════════════════════════════════════════════════════════
+
+Abra este link no navegador:
+
+    https://app.netlify.com/drop
+
+E arraste sua pasta do projeto!
+
+
+═══════════════════════════════════════════════════════════════
+
+Qualquer dúvida, me avise!
+
+WhatsApp: +351 914040103
+Instagram: @emd_servicos
+
+═══════════════════════════════════════════════════════════════

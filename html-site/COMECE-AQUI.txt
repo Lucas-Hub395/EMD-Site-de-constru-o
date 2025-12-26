@@ -1,0 +1,126 @@
+═══════════════════════════════════════════════════════════════
+          🏗️  SITE EMD SERVIÇOS - COMECE AQUI  🏗️
+═══════════════════════════════════════════════════════════════
+
+✅ SEU SITE ESTÁ PRONTO PARA PUBLICAR!
+
+📁 TODOS OS ARQUIVOS NECESSÁRIOS:
+   ✓ index.html       - Página principal
+   ✓ styles.css       - Design (azul ciano e dourado)
+   ✓ script.js        - Funcionalidades interativas
+   ✓ netlify.toml     - Configuração de hospedagem
+   ✓ sitemap.xml      - Otimização Google
+   ✓ robots.txt       - Otimização SEO
+
+───────────────────────────────────────────────────────────────
+
+🚀 PUBLICAR AGORA (ESCOLHA UM MÉTODO):
+
+MÉTODO 1 - SUPER RÁPIDO (5 MINUTOS):
+   1. Acesse: app.netlify.com
+   2. Faça login (ou crie conta grátis)
+   3. Arraste esta pasta "html-site" para o site
+   4. PRONTO! Site no ar em 30 segundos
+
+MÉTODO 2 - VIA GITHUB (RECOMENDADO):
+   1. Acesse: github.com
+   2. Crie novo repositório: "emd-servicos"
+   3. Faça upload de todos estes arquivos
+   4. Conecte ao Netlify (app.netlify.com)
+   5. PRONTO! Site atualiza automaticamente
+
+───────────────────────────────────────────────────────────────
+
+📖 DOCUMENTAÇÃO COMPLETA:
+
+📄 README.md              - Informações técnicas completas
+📄 GUIA-PUBLICACAO.md     - Passo a passo detalhado
+📄 COMECE-AQUI.txt        - Este arquivo (resumo)
+
+───────────────────────────────────────────────────────────────
+
+✨ FUNCIONALIDADES DO SITE:
+
+✅ Design Moderno e Responsivo
+✅ Cores EMD: Azul Ciano + Dourado
+✅ Menu de Navegação Interativo
+✅ Galeria de Serviços com Carrossel
+✅ Sistema de Marcações → Envia para WhatsApp + SMS + Email
+✅ Formulário de Contato → Envia para WhatsApp + SMS + Email
+✅ Botões Flutuantes (WhatsApp + Instagram)
+✅ Animações Suaves
+✅ SEO Otimizado para Google
+✅ 100% Responsivo (Mobile, Tablet, Desktop)
+
+───────────────────────────────────────────────────────────────
+
+📞 INFORMAÇÕES DE CONTATO NO SITE:
+
+Telefone: +351 914040103
+Email: emdservicos2025@gmail.com
+Instagram: @emd_servicos
+Horário: Segunda a Sexta, 8h - 18h
+Local: Lisboa e Arredores
+
+───────────────────────────────────────────────────────────────
+
+🎨 SEÇÕES DO SITE:
+
+1. HERO - "Você sonha, nós Construímos"
+2. SERVIÇOS - 7 serviços com fotos:
+   • Pintura Interna e Externa
+   • Eletricidade
+   • Pavimento Flutuante
+   • Montagem de Cozinhas
+   • Remodelação Completa
+   • Lavagem de Telhados
+   • Inspeções com Drones
+
+3. QUEM SOMOS - Sobre a empresa
+4. MARCAÇÕES - Agendar visita
+5. CONTACTO - Formulário e informações
+6. FOOTER - Links e redes sociais
+
+───────────────────────────────────────────────────────────────
+
+⚠️  IMPORTANTE:
+
+• NÃO ALTERE os nomes dos arquivos
+• NÃO DELETE nenhum arquivo
+• TODOS os arquivos devem ficar juntos nesta pasta
+• O arquivo principal é o "index.html"
+
+───────────────────────────────────────────────────────────────
+
+🆘 PRECISA DE AJUDA?
+
+1. Leia o GUIA-PUBLICACAO.md (passo a passo completo)
+2. Leia o README.md (informações técnicas)
+3. Contate via WhatsApp: +351 914040103
+
+───────────────────────────────────────────────────────────────
+
+🎉 PARABÉNS!
+
+Seu site profissional está pronto para:
+• Receber clientes
+• Gerar marcações
+• Aumentar sua presença online
+• Aparecer no Google
+
+───────────────────────────────────────────────────────────────
+
+PRÓXIMOS PASSOS:
+
+1. ✅ PUBLICAR o site (escolha um método acima)
+2. 📱 TESTAR em vários dispositivos
+3. 📢 COMPARTILHAR nas redes sociais
+4. 🌐 ADICIONAR ao Google Meu Negócio
+5. 📈 MONITORAR as marcações
+
+───────────────────────────────────────────────────────────────
+
+Desenvolvido com ❤️ para EMD Serviços
+"Você sonha, nós Construímos"
+
+═══════════════════════════════════════════════════════════════
