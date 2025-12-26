@@ -1,0 +1,300 @@
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║     ✅ CÓDIGO LIMPO E PRONTO PARA GITHUB - SEM LIMITAÇÕES!          ║
+║                                                                       ║
+║                  PUBLICAR AGORA EM 30 MINUTOS                         ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+✅ O QUE FOI FEITO:
+
+
+    ✓ Removidas TODAS as referências ao Figma
+    ✓ Código atualizado para usar /images/
+    ✓ 4 componentes corrigidos:
+       • Hero.tsx
+       • Services.tsx  
+       • Header.tsx
+       • Footer.tsx
+    ✓ .gitignore configurado
+    ✓ netlify.toml pronto
+    ✓ index.html limpo (SEO completo)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+📸 PRÓXIMO PASSO: ADICIONAR IMAGENS
+
+
+Você precisa de 18 imagens no total.
+
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  OPÇÃO 1: SUAS FOTOS REAIS (Recomendado)                      │
+│  ════════════════════════════════════════════════════════════   │
+│                                                                 │
+│  1. Crie a pasta:                                               │
+│     mkdir -p public/images                                      │
+│                                                                 │
+│  2. Adicione 18 fotos com estes nomes:                          │
+│     • emd-logo.png                                              │
+│     • paint-1.jpg, paint-2.jpg, paint-3.jpg                    │
+│     • electric-1.jpg, electric-2.jpg, electric-3.jpg           │
+│     • flooring-1.jpg, flooring-2.jpg, flooring-3.jpg           │
+│     • kitchen-1.jpg, kitchen-2.jpg                             │
+│     • renovation-1.jpg, renovation-2.jpg, renovation-3.jpg     │
+│     • roof-1.jpg                                                │
+│     • drone-1.jpg, drone-2.jpg                                  │
+│                                                                 │
+│  Ver lista completa: IMAGENS-NECESSARIAS.md                     │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+
+
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  OPÇÃO 2: URLs TEMPORÁRIAS (Mais Rápido)                       │
+│  ════════════════════════════════════════════════════════════   │
+│                                                                 │
+│  Não tem as fotos agora? Use URLs do Unsplash temporariamente. │
+│                                                                 │
+│  Abra IMAGENS-NECESSARIAS.md e copie as URLs prontas.          │
+│  Substitua em cada componente.                                  │
+│                                                                 │
+│  Você pode adicionar fotos reais depois!                        │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+🚀 PUBLICAR NO GITHUB (4 PASSOS):
+
+
+PASSO 1: Teste Local
+═══════════════════════════════════════════════════════════════
+
+cd emdservicos
+npm install
+npm run dev
+
+✓ Verifique se funciona sem erros
+
+
+PASSO 2: Git Init
+═══════════════════════════════════════════════════════════════
+
+git init
+git add .
+git commit -m "🎉 Site EMD Serviços - Pronto para produção"
+
+
+PASSO 3: GitHub
+═══════════════════════════════════════════════════════════════
+
+1. Acesse: https://github.com/new
+
+2. Configure:
+   Nome: emdservicos
+   Descrição: Website oficial EMD Serviços
+   Público: ✓
+
+3. Create repository
+
+4. No terminal:
+   git remote add origin https://github.com/SEU-USUARIO/emdservicos.git
+   git branch -M main
+   git push -u origin main
+
+
+PASSO 4: Netlify Deploy
+═══════════════════════════════════════════════════════════════
+
+1. https://app.netlify.com/
+
+2. "Add new site" → "Import from Git"
+
+3. Conecte GitHub
+
+4. Selecione: emdservicos
+
+5. Configure:
+   Build command: npm run build
+   Publish directory: dist
+
+6. Deploy!
+
+🎉 Site online em 2-3 minutos!
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+📊 ESTRUTURA DE ARQUIVOS PARA GITHUB:
+
+
+emdservicos/
+├── .gitignore                  ✅ Pronto
+├── netlify.toml                ✅ Pronto
+├── package.json                ✅ Pronto
+├── vite.config.ts              ✅ Pronto
+├── tsconfig.json               ✅ Pronto
+├── index.html                  ✅ Pronto (SEO completo)
+│
+├── public/
+│   ├── images/                 ⚠️  ADICIONE 18 IMAGENS AQUI
+│   ├── robots.txt              ✅ Pronto
+│   └── sitemap.xml             ✅ Pronto
+│
+├── src/
+│   ├── components/
+│   │   ├── Hero.tsx            ✅ Atualizado (sem figma:asset)
+│   │   ├── Services.tsx        ✅ Atualizado (sem figma:asset)
+│   │   ├── Header.tsx          ✅ Atualizado (sem figma:asset)
+│   │   ├── Footer.tsx          ✅ Atualizado (sem figma:asset)
+│   │   └── ...outros
+│   ├── styles/
+│   └── main.tsx
+│
+└── README.md                   ✅ Pronto
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+✅ VERIFICAÇÃO PRÉ-PUBLICAÇÃO:
+
+
+□ Imagens adicionadas em /public/images/ (18 arquivos)
+□ npm install executado
+□ npm run dev funciona sem erros
+□ Site carrega corretamente
+□ Todas as seções aparecem
+□ Formulários funcionam
+□ .gitignore existe
+□ Nenhuma referência a "figma:asset" no código
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+📋 COMANDOS RÁPIDOS:
+
+
+# Criar pasta de imagens
+mkdir -p public/images
+
+# Instalar dependências
+npm install
+
+# Testar localmente
+npm run dev
+
+# Git inicial
+git init
+git add .
+git commit -m "🎉 Site EMD Serviços"
+
+# Conectar ao GitHub (substitua SEU-USUARIO)
+git remote add origin https://github.com/SEU-USUARIO/emdservicos.git
+git branch -M main
+git push -u origin main
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+🔍 GOOGLE INDEXAÇÃO:
+
+
+Após deploy no Netlify:
+
+1. https://search.google.com/search-console
+
+2. Adicionar propriedade: seu-site.netlify.app
+
+3. Enviar sitemap: /sitemap.xml
+
+4. Solicitar indexação
+
+5. Aguardar 2-7 dias
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+💰 CUSTOS:
+
+
+GitHub:    GRÁTIS ✅
+Netlify:   GRÁTIS ✅
+SSL:       GRÁTIS ✅
+Google:    GRÁTIS ✅
+
+Total:     €0/mês 🎉
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+📞 INFORMAÇÕES DO PROJETO:
+
+
+WhatsApp:  +351 914040103
+Instagram: @emd_servicos
+Email:     emdservicos2025@gmail.com
+Website:   https://emdservicos.pt (após deploy)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+📚 DOCUMENTAÇÃO DISPONÍVEL:
+
+
+📄 IMAGENS-NECESSARIAS.md     → Lista completa de imagens
+📄 PUBLICAR-EM-5-PASSOS.txt   → Guia rápido (60 min)
+📄 COMANDOS-GIT.md            → Referência Git completa
+📄 README.md                  → Documentação técnica
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+🎯 PRÓXIMA AÇÃO:
+
+
+1️⃣  Adicione as imagens em /public/images/
+    (Ver: IMAGENS-NECESSARIAS.md)
+
+2️⃣  Teste: npm run dev
+
+3️⃣  Publique no GitHub (comandos acima)
+
+4️⃣  Deploy no Netlify
+
+
+═══════════════════════════════════════════════════════════════
+SITE ONLINE EM 30 MINUTOS! 🚀
+═══════════════════════════════════════════════════════════════
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+✅ CÓDIGO 100% LIMPO
+✅ SEM REFERÊNCIAS AO FIGMA
+✅ SEM LIMITAÇÕES
+✅ PRONTO PARA PRODUÇÃO
+
+
+💼 "Você sonha, nós construímos!" - EMD Serviços 🏗️
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

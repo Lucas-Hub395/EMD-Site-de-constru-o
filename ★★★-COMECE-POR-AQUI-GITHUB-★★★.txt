@@ -1,0 +1,374 @@
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║  ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  ║
+║                                                                       ║
+║           🎉 REPOSITÓRIO GITHUB - PUBLICAÇÃO COMPLETA 🎉             ║
+║                                                                       ║
+║                  SITE EMD SERVIÇOS SEM LIMITAÇÕES                     ║
+║                                                                       ║
+║  ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+                    🎯 VOCÊ ESTÁ NO LUGAR CERTO!
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+✅ O QUE FOI CRIADO PARA VOCÊ:
+
+
+    ✓ Site completo EMD Serviços (React + TypeScript + Tailwind)
+    ✓ SEO 100% otimizado para Google
+    ✓ 14 guias detalhados de publicação
+    ✓ Código sem limitações
+    ✓ Pronto para GitHub + Netlify
+    ✓ Indexação Google configurada
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+⚠️  ATENÇÃO - PROBLEMA ATUAL:
+
+
+    O projeto usa imagens do Figma (figma:asset) que NÃO funcionam
+    fora desta plataforma.
+    
+    Você PRECISA substituir 29 imagens antes de publicar no GitHub.
+    
+    ⏱️  Tempo necessário: 30 minutos (usando URLs prontas)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+🚀 ESCOLHA SEU CAMINHO:
+
+
+┌───────────────────────────────────────────────────────────────────┐
+│                                                                   │
+│  CAMINHO 1: INICIANTE (Nunca usei Git/GitHub)                   │
+│  ═══════════════════════════════════════════════════════════════  │
+│                                                                   │
+│  👉 ABRA: LEIA-ME-PUBLICACAO.txt                                 │
+│                                                                   │
+│  Depois siga para:                                                │
+│  → COMECE-AQUI-GITHUB.txt                                        │
+│  → IMAGENS-UNSPLASH-PRONTAS.md                                   │
+│  → INSTRUCOES-PUBLICACAO-GITHUB.md                               │
+│                                                                   │
+│  ⏱️  Tempo total: 90 minutos                                     │
+│  📚 4 arquivos para ler                                          │
+│  ⭐ Dificuldade: Fácil                                           │
+│                                                                   │
+└───────────────────────────────────────────────────────────────────┘
+
+
+┌───────────────────────────────────────────────────────────────────┐
+│                                                                   │
+│  CAMINHO 2: INTERMEDIÁRIO (Já usei Git antes)                   │
+│  ═══════════════════════════════════════════════════════════════  │
+│                                                                   │
+│  👉 ABRA: RESUMO-EXECUTIVO-PUBLICACAO.md                         │
+│                                                                   │
+│  Depois siga para:                                                │
+│  → IMAGENS-UNSPLASH-PRONTAS.md                                   │
+│  → Execute comandos Git direto                                    │
+│  → README-GITHUB.md (se necessário)                              │
+│                                                                   │
+│  ⏱️  Tempo total: 60 minutos                                     │
+│  📚 2-3 arquivos para ler                                        │
+│  ⭐⭐ Dificuldade: Médio                                         │
+│                                                                   │
+└───────────────────────────────────────────────────────────────────┘
+
+
+┌───────────────────────────────────────────────────────────────────┐
+│                                                                   │
+│  CAMINHO 3: AVANÇADO / COM PRESSA                                │
+│  ═══════════════════════════════════════════════════════════════  │
+│                                                                   │
+│  👉 ABRA: PUBLICAR-EM-5-PASSOS.txt                               │
+│                                                                   │
+│  Tudo em 1 arquivo:                                               │
+│  → Substituir imagens                                             │
+│  → Git + GitHub                                                   │
+│  → Netlify                                                        │
+│  → Google                                                         │
+│  → Pronto!                                                        │
+│                                                                   │
+│  ⏱️  Tempo total: 60 minutos                                     │
+│  📚 1 arquivo apenas                                             │
+│  ⭐⭐⭐ Dificuldade: Você sabe o que fazer                       │
+│                                                                   │
+└───────────────────────────────────────────────────────────────────┘
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+📚 TODOS OS GUIAS DISPONÍVEIS:
+
+
+┌─ INÍCIO RÁPIDO ──────────────────────────────────────────────────┐
+│                                                                   │
+│  📄 LEIA-ME-PUBLICACAO.txt                                       │
+│     → Primeiro contato, visão geral                              │
+│                                                                   │
+│  📄 PUBLICAR-EM-5-PASSOS.txt                                     │
+│     → Guia ultra-resumido (60 min)                               │
+│                                                                   │
+│  📄 COMECE-AQUI-GITHUB.txt                                       │
+│     → Checklist completa passo a passo                           │
+│                                                                   │
+│  📄 DIAGRAMA-PUBLICACAO.txt                                      │
+│     → Visualização gráfica do processo                           │
+│                                                                   │
+└───────────────────────────────────────────────────────────────────┘
+
+
+┌─ GUIAS COMPLETOS ────────────────────────────────────────────────┐
+│                                                                   │
+│  📄 00-INDICE-PUBLICACAO-GITHUB.md                               │
+│     → Índice de toda documentação                                │
+│                                                                   │
+│  📄 RESUMO-EXECUTIVO-PUBLICACAO.md                               │
+│     → Visão executiva, KPIs, métricas                            │
+│                                                                   │
+│  📄 INSTRUCOES-PUBLICACAO-GITHUB.md                              │
+│     → Passo a passo super detalhado                              │
+│                                                                   │
+│  📄 LISTA-GUIAS-CRIADOS.md                                       │
+│     → Lista de todos os 14 guias                                 │
+│                                                                   │
+└───────────────────────────────────────────────────────────────────┘
+
+
+┌─ GUIAS TÉCNICOS ─────────────────────────────────────────────────┐
+│                                                                   │
+│  📄 COMANDOS-GIT.md                                              │
+│     → Referência completa Git                                    │
+│                                                                   │
+│  📄 IMAGENS-UNSPLASH-PRONTAS.md                                  │
+│     → URLs prontas para copiar/colar                             │
+│                                                                   │
+│  📄 README-GITHUB.md                                             │
+│     → Documentação técnica                                       │
+│                                                                   │
+│  📄 COMO-BAIXAR-PROJETO-FIGMA.md                                 │
+│     → Exportar projeto (se necessário)                           │
+│                                                                   │
+└───────────────────────────────────────────────────────────────────┘
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+📋 PROCESSO RESUMIDO:
+
+
+    1️⃣  Escolha seu caminho acima
+         ↓
+    2️⃣  Leia o guia recomendado
+         ↓
+    3️⃣  Substitua as 29 imagens (30 min)
+         Use: IMAGENS-UNSPLASH-PRONTAS.md
+         ↓
+    4️⃣  Publique no GitHub (30 min)
+         Git → GitHub → Netlify
+         ↓
+    5️⃣  Configure Google (5 min)
+         Search Console → Sitemap
+         ↓
+    🎉  SITE ONLINE!
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+⏱️  TEMPO TOTAL ESTIMADO:
+
+
+    ┌─────────────────────────────────────────────┐
+    │                                             │
+    │  Substituir imagens:    30 minutos         │
+    │  Git + GitHub:          15 minutos         │
+    │  Netlify deploy:        10 minutos         │
+    │  Google indexação:      5 minutos          │
+    │                                             │
+    │  ═══════════════════════════════════════    │
+    │  TOTAL:                 60 minutos         │
+    │  ═══════════════════════════════════════    │
+    │                                             │
+    └─────────────────────────────────────────────┘
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+💰 CUSTOS:
+
+
+    GitHub:         GRÁTIS ✅
+    Netlify:        GRÁTIS ✅ (100GB/mês)
+    SSL/HTTPS:      GRÁTIS ✅
+    Google:         GRÁTIS ✅
+    Unsplash:       GRÁTIS ✅
+    
+    Domínio .pt:    ~€10/ano (opcional)
+    
+    ════════════════════════════════════════
+    TOTAL: €0-10/ano
+    ════════════════════════════════════════
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+✅ O QUE VOCÊ VAI CONSEGUIR:
+
+
+    ✓ Site profissional online
+    ✓ URL própria (emdservicos.pt)
+    ✓ Indexado no Google
+    ✓ Recebendo visitas orgânicas
+    ✓ Gerando leads pelo formulário
+    ✓ 100% funcional e responsivo
+    ✓ SEM limitações técnicas
+    ✓ SEM custos mensais
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+🎯 PRÓXIMA AÇÃO IMEDIATA:
+
+
+              ┌────────────────────────────────┐
+              │                                │
+              │  ESCOLHA SEU CAMINHO ACIMA     │
+              │                                │
+              │  Depois abra o arquivo         │
+              │  recomendado                   │
+              │                                │
+              └────────────────────────────────┘
+
+
+    👇 SE ESTIVER COM DÚVIDA, COMECE AQUI 👇
+
+              ┌────────────────────────────────┐
+              │                                │
+              │  📄 LEIA-ME-PUBLICACAO.txt    │
+              │                                │
+              │  É o mais visual e amigável    │
+              │                                │
+              └────────────────────────────────┘
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+🆘 PRECISA DE AJUDA?
+
+
+    Problema                        Arquivo
+    ────────────────────────────────────────────────────────────
+    Não sei por onde começar    →  LEIA-ME-PUBLICACAO.txt
+    
+    Como substituir imagens     →  IMAGENS-UNSPLASH-PRONTAS.md
+    
+    Esqueci comando Git         →  COMANDOS-GIT.md
+    
+    Erro no build/deploy        →  README-GITHUB.md
+    
+    Preciso ver tudo visual     →  DIAGRAMA-PUBLICACAO.txt
+    
+    Estou com pressa            →  PUBLICAR-EM-5-PASSOS.txt
+    
+    Quero índice completo       →  00-INDICE-PUBLICACAO-GITHUB.md
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+📞 INFORMAÇÕES DO PROJETO:
+
+
+    Empresa:    EMD Serviços
+    WhatsApp:   +351 914040103
+    Instagram:  @emd_servicos
+    Email:      emdservicos2025@gmail.com
+    Website:    https://emdservicos.pt (após deploy)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+💡 DICA DE OURO:
+
+
+    NÃO procure fazer tudo perfeito de primeira!
+    
+    ✓ Use imagens Unsplash AGORA (30 min)
+    ✓ Publique o site HOJE (30 min)
+    ✓ Substitua por fotos reais DEPOIS
+    
+    Site parado = 0 clientes
+    Site online = clientes em potencial
+    
+    AÇÃO > PERFEIÇÃO
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+📊 ESTATÍSTICAS DO PROJETO:
+
+
+    ✓ 14 guias criados
+    ✓ 25.000+ palavras de documentação
+    ✓ 100% em Português
+    ✓ 0% de limitações
+    ✓ Código completo incluído
+    ✓ SEO otimizado
+    ✓ Pronto para produção
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+🚀 VOCÊ CONSEGUE!
+
+
+    Este projeto está 95% pronto.
+    
+    Falta apenas:
+      → 30 min: Substituir imagens
+      → 30 min: Publicar no GitHub
+    
+    ═════════════════════════════════════════
+    = SITE ONLINE EM 1 HORA! 🎉
+    ═════════════════════════════════════════
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+              💼 "Você sonha, nós construímos!"
+                      
+                      - EMD Serviços 🏗️
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+            👉 COMECE AGORA! ESCOLHA SEU CAMINHO ACIMA 👆
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

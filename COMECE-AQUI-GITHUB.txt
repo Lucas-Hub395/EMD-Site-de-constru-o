@@ -1,0 +1,160 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║     🚀 PUBLICAR SITE EMD SERVIÇOS NO GITHUB - GUIA RÁPIDO          ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+⚠️  ATENÇÃO: LEIA ISTO PRIMEIRO!
+
+O projeto usa imagens do Figma que NÃO FUNCIONAM fora desta plataforma.
+Você PRECISA substituir as imagens ANTES de publicar no GitHub.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📁 ARQUIVOS QUE VOCÊ PRECISA EDITAR:
+
+1. /components/Hero.tsx        (linhas 4-11)
+2. /components/Services.tsx    (linhas 6-22)
+3. /components/Header.tsx      (linhas 1-4, 8)
+4. /components/Footer.tsx      (linha 1, 3)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 ESCOLHA UMA OPÇÃO:
+
+
+┌─────────────────────────────────────────────────────────────────┐
+│  OPÇÃO A: USAR SUAS PRÓPRIAS FOTOS (Recomendado)               │
+└─────────────────────────────────────────────────────────────────┘
+
+1. Crie a pasta: /public/images/
+2. Adicione suas fotos:
+   - emd-logo.png
+   - paint-1.jpg, paint-2.jpg, paint-3.jpg
+   - electric-1.jpg, electric-2.jpg, electric-3.jpg
+   - flooring-1.jpg, flooring-2.jpg, flooring-3.jpg
+   - kitchen-1.jpg, kitchen-2.jpg
+   - renovation-1.jpg, renovation-2.jpg, renovation-3.jpg
+   - roof-1.jpg
+   - drone-1.jpg, drone-2.jpg
+
+3. Abra os 4 arquivos listados acima
+4. Substitua TODAS as linhas que começam com:
+   import algo from 'figma:asset/...';
+   
+   POR:
+   const algo = '/images/nome-da-foto.jpg';
+
+
+┌─────────────────────────────────────────────────────────────────┐
+│  OPÇÃO B: USAR FOTOS TEMPORÁRIAS DA INTERNET (Mais Rápido)     │
+└─────────────────────────────────────────────────────────────────┘
+
+1. Abra os 4 arquivos listados acima
+2. Substitua as importações por URLs:
+
+   Exemplo:
+   
+   ANTES:
+   import paintImage1 from 'figma:asset/9f80e1b15...';
+   
+   DEPOIS:
+   const paintImage1 = 'https://images.unsplash.com/photo-1562259949-e8e7689d7828?w=800';
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📤 DEPOIS DE SUBSTITUIR AS IMAGENS:
+
+
+1️⃣  ABRA O TERMINAL/PROMPT DE COMANDO
+
+2️⃣  NAVEGUE ATÉ A PASTA DO PROJETO
+    cd /caminho/para/emdservicos
+
+3️⃣  EXECUTE OS COMANDOS:
+
+    git init
+    git add .
+    git commit -m "🎉 Site EMD Serviços - Versão inicial"
+
+4️⃣  CRIE O REPOSITÓRIO NO GITHUB
+    https://github.com/new
+    
+    Nome: emdservicos
+    Descrição: Website EMD Serviços - Construção e Remodelação
+    Público: SIM
+    NÃO adicione README, .gitignore ou license
+
+5️⃣  CONECTE E ENVIE (substitua 'seu-usuario'):
+
+    git remote add origin https://github.com/seu-usuario/emdservicos.git
+    git branch -M main
+    git push -u origin main
+
+6️⃣  PUBLIQUE NO NETLIFY
+    https://app.netlify.com/
+    
+    - Login com GitHub
+    - "Add new site" → "Import from Git"
+    - Escolha o repositório "emdservicos"
+    - Build command: npm run build
+    - Publish directory: dist
+    - Deploy!
+
+7️⃣  INDEXAÇÃO NO GOOGLE
+    https://search.google.com/search-console
+    
+    - Adicione a propriedade
+    - Envie o sitemap: /sitemap.xml
+    - Aguarde 2-7 dias
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 GUIAS DETALHADOS:
+
+→ INSTRUCOES-PUBLICACAO-GITHUB.md   (Guia completo passo a passo)
+→ COMANDOS-GIT.md                   (Todos os comandos Git explicados)
+→ README-GITHUB.md                  (Documentação técnica completa)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🆘 PROBLEMAS?
+
+❌ Erro "Module not found: figma:asset"
+   → Você esqueceu de substituir as importações nos 4 arquivos
+
+❌ Build falha
+   → Execute: npm install
+   → Depois: npm run build
+
+❌ Site não indexa no Google
+   → É normal demorar 2-7 dias
+   → Envie o sitemap no Search Console
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ CHECKLIST:
+
+[ ] Substituí TODAS as importações figma:asset
+[ ] Criei o repositório no GitHub
+[ ] Fiz git push com sucesso
+[ ] Conectei ao Netlify
+[ ] Site está online
+[ ] Enviei sitemap ao Google Search Console
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 PRONTO! Após seguir estes passos, seu site estará:
+   ✓ Publicado no GitHub
+   ✓ Online via Netlify
+   ✓ Sendo indexado pelo Google
+
+💼 "Você sonha, nós construímos!" - EMD Serviços 🏗️
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
