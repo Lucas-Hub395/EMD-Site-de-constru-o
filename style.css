@@ -1,0 +1,581 @@
+:root {
+    --primary: #f39c12; /* Amarelo/Laranja da sua logo */
+    --dark: #1a1a1a;
+    --light: #f4f4f4;
+}
+
+body { font-family: 'Segoe UI', sans-serif; margin: 0; color: #333; line-height: 1.6; }
+
+/*header { background: var(--dark); color: white; padding: 1rem 5%; position: sticky; top: 0; z-index: 100; }*/
+/* Reset básico para o header */
+.main-header {
+    width: 100%;
+    position: sticky;
+    top: 10px; /* Margem do topo para dar o efeito flutuante */
+    left: 0;
+    right: 0;
+    z-index: 1000;
+ 
+}
+
+.navbar {
+    background-color: #f39c12; /* Laranja da imagem */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px;
+    border-radius: 50px; /* Bordas arredondadas como na foto */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.logo span {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-links li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+    font-size: 1rem;
+    transition: color 0.3s ease;
+}
+
+.nav-links li a:hover {
+    color: #000;
+}
+
+/* Estilo específico para o link do Instagram com ícone */
+.instagram-link {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+/* Botão de Contacto Azul */
+.btn-contacto {
+    background-color: #3498db; /* Azul do botão na foto */
+    color: white !important;
+    padding: 10px 25px;
+    border-radius: 25px;
+    transition: background 0.3s ease !important;
+}
+
+.btn-contacto:hover {
+    background-color: #2980b9 !important;
+}
+
+/* Responsividade para telemóveis */
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        border-radius: 20px;
+        padding: 15px;
+    }
+    
+    .nav-links {
+        flex-direction: column;
+        gap: 15px;
+        margin-top: 15px;
+    }
+}
+
+.btn-secondary {
+    background-color: #55acee;
+    color: whitesmoke;
+    text-decoration: none;
+    border-radius: 5px;
+    width: 12em;
+    align-content: center;
+}
+
+
+nav { display: flex; justify-content: space-between; align-items: center; }
+nav ul { display: flex; list-style: none; }
+nav ul li a { color: white; text-decoration: none; margin-left: 20px; font-weight: bold; }
+
+.hero {
+    /* Substitua pelo caminho correto da sua foto */
+    background:  url('imagens/colagem\ header.PNG'); 
+    background-size: cover;           /* Ocupa 100% da largura e altura */
+    background-position: center;      /* Centraliza a foto */
+    background-repeat: no-repeat;
+   margin-bottom: 4em;
+    min-height: 80vh;                 /* Garante que o hero seja grande */
+    width: 100%;                      /* Ocupa 100% da largura da página */
+    
+    display: flex;                    /* Ativa o alinhamento flexível */
+    align-items: center;              /* Centraliza verticalmente */
+    justify-content: center;         /* Centraliza horizontalmente */
+    text-align: center;
+    position: relative;
+    padding: 20px;
+    margin-bottom: 8em;
+}
+
+.hero-content {
+    max-width: 800px;
+    color: white;
+    z-index: 10;  
+    margin-top:270px;                   /* Garante que o texto fique na frente */
+}
+
+.hero-buttons {
+    display: flex;
+    gap: 20px;
+    justify-content: center;          /* Centraliza os botões entre si */
+    margin-top: 30px;
+}
+
+.btn-agendar, .btn-ver {
+    
+    padding: 15px 30px;
+    border-radius: 8px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.btn-agendar {
+    background-color: #ff8c00;        /* Laranja EMD */
+    color: white;
+}
+
+/* Localize este bloco e substitua por este código */
+/* Cole este bloco no final do arquivo style.css */
+.hero-buttons a.btn-ver {
+    background-color: #55acee !important;
+    color: white !important;
+    border: none !important;
+    padding: 15px 30px !important;
+    display: inline-block !important;
+    text-decoration: none !important;
+    border-radius: 8px !important;
+    font-weight: bold !important;
+}
+
+.hero-buttons a.btn-ver:hover {
+    background-color: #3d8bc7 !important;
+}
+
+
+.grid-servicos { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 20px 0; }
+
+/* Layout da Grid */
+.grid-servicos {
+   margin-top: 4em;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Força 3 colunas iguais */
+    gap: 30px;
+   
+}
+
+/* botões rolagem card para ao lado */
+.prev-btn, .next-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(57, 139, 201, 0.8); /* Azul semi-transparente */
+    color: white;
+    border: none;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    z-index: 10;
+    transition: background 0.3s;
+}
+
+.prev-btn:hover, .next-btn:hover {
+    background: rgb(85, 172, 238);
+}
+
+.prev-btn { left: 10px; }
+.next-btn { right: 10px; }
+
+/* Estilo do Card */
+.card {
+    background: #fff;
+    border-radius: 15px; /* Bordas mais arredondadas como na foto */
+    overflow: hidden;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+    display: flex;
+    flex-direction: column; 
+}
+
+/* Container da Imagem para posicionar elementos internos */
+.card-img-wrapper {
+    position: relative;
+    width: 100%;
+    height: 450px;
+   overflow: hidden;
+}
+
+.carousel-track{
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+    width: 100%;
+    height: 100%;
+}
+
+.carousel-track img {
+    width: 100%;
+    height: 100%;
+    flex-shrink: 0;
+    object-fit: cover;
+}
+
+.card-img-wrapper img {
+    width: 100%;
+    min-height: 450px;
+    /* object-fit: cover; */
+}
+
+/* Badge Laranja com Ícone */
+.icon-badge {
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+    background: #f39c12;
+    color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+}
+
+/* Pontinhos de Slide */
+.dots-indicator {
+    position: absolute;
+    bottom: 15px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+
+.dot {
+    width: 8px;
+    height: 8px;
+    background: rgba(255,255,255,0.5);
+    border-radius: 50%;
+}
+
+.dot.active {
+    background: #3498db; /* Azul da foto */
+    width: 20px; /* Um pouco mais comprido */
+    border-radius: 10px;
+}
+
+/* Texto do Card */
+.card-body {
+    padding: 20px;
+}
+
+.card-body h3 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.card-body p {
+    font-size: 0.9rem;
+    color: #777;
+    line-height: 1.4;
+}
+
+/* Responsividade: No celular fica 1 coluna */
+@media (max-width: 900px) {
+    .grid-servicos {
+        grid-template-columns: 1fr;
+    }
+}
+
+.card { border-radius: 8px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.1); transition: 0.3s; }
+.card:hover { transform: translateY(-5px); }
+.card img { width: 100%; height: 200px; object-fit: cover; }
+.card-body { padding: 15px; }
+
+/*
+.stats-section { background: #eef2f3; padding: 50px 0; margin: 40px 0; }
+.stats-grid { display: flex; justify-content: space-around; text-align: center; }*/
+
+/* Container Geral da Seção */
+.quem-somos {
+    background-color: #e8f1f5; /* Fundo azul bem claro como na foto */
+    padding: 80px 5%;
+}
+
+.about-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Lado do Texto */
+.about-text {
+    flex: 1;
+}
+
+.about-text h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.benefits-list {
+    list-style: none;
+    padding: 0;
+    margin-top: 30px;
+}
+
+.benefits-list li {
+    display: flex;
+    align-items: flex-start;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.benefits-list i {
+    color: #e67e22; /* Laranja dos checks */
+    font-size: 1.2rem;
+    margin-top: 5px;
+}
+
+.benefits-list strong {
+    display: block;
+    font-size: 1.1rem;
+    color: #2c3e50;
+}
+
+.benefits-list span {
+    font-size: 0.9rem;
+    color: #7f8c8d;
+}
+
+/* Grid de Cartões (Estatísticas) */
+.stats-grid-cards {
+    flex: 1;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 colunas */
+    gap: 20px;
+}
+
+.stat-card {
+    background: #ffffff;
+    padding: 30px 20px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05); /* Sombra suave */
+    transition: transform 0.3s ease;
+}
+
+.stat-card:hover {
+    transform: translateY(-5px);
+}
+
+.stat-card h3 {
+    font-size: 2.2rem;
+    margin-bottom: 5px;
+}
+
+.stat-card p {
+    font-size: 0.9rem;
+    color: #7f8c8d;
+    margin: 0;
+}
+
+/* Cores específicas dos números */
+.blue-text {
+    color: #2980b9;
+}
+
+.orange-text {
+    color: #e67e22;
+}
+
+/* Responsividade para Celular */
+@media (max-width: 992px) {
+    .about-wrapper {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .benefits-list li {
+        justify-content: center;
+        text-align: left;
+    }
+
+    .stats-grid-cards {
+        width: 100%;
+    }
+}
+
+.form-container { max-width: 600px; margin: 0 auto; background: white; padding: 30px; border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.1); border-top: 5px solid #3498db; }
+input, select, button { width: 100%; padding: 12px; margin: 10px 0; border: 1px solid #ddd; border-radius: 5px; }
+
+.btn-primary { background: var(--primary); color: white; padding: 12px 25px; text-decoration: none; border-radius: 5px; margin-right: 10px; }
+.btn-submit { background: #3498db; color: white; border: none; cursor: pointer; font-weight: bold; }
+
+/*.whatsapp-float { position: fixed; bottom: 20px; right: 20px; background: #25d366; color: white; width: 60px; height: 60px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 30px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2); z-index: 1000; }*/
+
+/* Container dos botões flutuantes */
+.floating-socials {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: flex;
+    flex-direction: column; /* Coloca um em cima do outro */
+    gap: 15px; /* Espaço entre os botões */
+    z-index: 1000;
+}
+
+/* Estilo Base para os Botões */
+.floating-socials a {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.3);
+    transition: transform 0.3s ease;
+}
+
+.floating-socials a:hover {
+    transform: scale(1.1);
+}
+
+/* Cor do WhatsApp */
+.whatsapp-float {
+    background-color: #25d366;
+}
+
+/* Cor do Instagram (Gradiente oficial) */
+.instagram-float {
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+}
+
+/* Estilos do Footer */
+.main-footer {
+    background-color: #0d1b2a; /* Azul escuro profundo da foto */
+    color: #ffffff;
+    padding: 60px 0 20px 0;
+    font-size: 0.9rem;
+}
+
+.footer-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 colunas iguais */
+    gap: 40px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.footer-col h4 {
+    color: #ffffff;
+    margin-bottom: 20px;
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.footer-col ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-col ul li {
+    margin-bottom: 10px;
+    color: #bdc3c7; /* Cor de texto levemente cinza */
+}
+
+.footer-col ul li a {
+    color: #bdc3c7;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.footer-col ul li a:hover {
+    color: #f39c12; /* Cor de destaque ao passar o mouse */
+}
+
+/* Links de Contacto */
+.contact-links a {
+    color: #ffffff;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.contact-links i {
+    margin-right: 10px;
+    color: #ffffff;
+}
+
+/* Ícones Sociais */
+.social-icons {
+    margin-top: 20px;
+}
+
+.social-icons a {
+    color: #ffffff;
+    font-size: 1.5rem;
+    margin-right: 15px;
+    transition: 0.3s;
+}
+
+.social-icons a:hover {
+    color: #f39c12;
+}
+
+/* Rodapé Final */
+.footer-bottom {
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 20px;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.footer-bottom p {
+    color: #7f8c8d;
+    font-size: 0.8rem;
+}
+
+/* Ajuste para telas pequenas (Celular) */
+@media (max-width: 768px) {
+    .footer-grid {
+        grid-template-columns: 1fr; /* Transforma em 1 coluna no celular */
+        text-align: center;
+    }
+}
+
+.footer-brand  img{
+
+        height: 98px;    /* Reduzi para 40px para ficar pequena */
+        width:  auto!important;     /* Mantém a proporção */
+        display: block;
+        margin: -20px auto 10px;    /* O '-20px' puxa a logo para CIMA, cobrindo o espaço anterior */
+        object-fit: contain;
+    
+}
+
